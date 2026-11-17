@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro 👋
 
-Desenvolvedor em formação (Análise e Desenvolvimento de Sistemas), focado em **ferramentas digitais para a indústria**: apontamento de produção, dashboards MES, rastreabilidade e portais internos que tiram o chão de fábrica do papel e da planilha.
+Desenvolvedor em formação (Análise e Desenvolvimento de Sistemas), focado em **ferramentas digitais e automações**: como: apontamento de produção, dashboards MES, rastreabilidade e portais internos que tiram o chão de fábrica do papel e da planilha.
 
 📍 Brasil
 
